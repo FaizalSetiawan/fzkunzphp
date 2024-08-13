@@ -48,8 +48,8 @@ I'm **Muhammad Faizal Setiawan** from Indonesia. I'm a student in SMK Assalaam B
 
 I'm grateful for any support via donation. Thank you! 💖
 
-- [Donate with Paypal](https://paypal.me/your-paypal)
-- [Buy Me a Coffee](https://www.buymeacoffee.com/your-coffee)
+[![Shopee](https://img.shields.io/badge/Shopee-%23FF5722?style=flat&logo=shopee&logoColor=white)](https://shopee.co.id/your-shopee-link)
+[![Dana](https://img.shields.io/badge/Dana-%2321BEE5?style=flat&logo=dana&logoColor=white)](https://linktr.ee/your-dana-link)
 
 ---
 
