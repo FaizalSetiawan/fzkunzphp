@@ -2,13 +2,16 @@
 
 I'm **Muhammad Faizal Setiawan** from Indonesia. I'm a student in the field of Software Engineering and a Fullstack Web & Mobile Developer. Currently, I am also learning to become a Cyber Security Expert. I love building applications and discussing new product ideas. If you're interested in collaborating, feel free to reach out! 😄✌️
 
+![GIF](https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
+
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Gmail](mailto:your-email@gmail.com)
-- [Telegram](https://t.me/your-telegram)
-- [Whatsapp](https://wa.me/your-whatsapp)
-- [Instagram](https://www.instagram.com/your-instagram)
-- [Facebook](https://www.facebook.com/your-facebook)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%23143485?style=flat&logo=telegram&logoColor=white)](https://t.me/your-telegram)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-%2393D34B?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/your-whatsapp)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook)
 
 ## Personal Stuff
 
