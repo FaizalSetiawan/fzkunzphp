@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-I'm **Muhammad Faizal Setiawan** from Indonesia. I'm a student in the field of Software Engineering and a Fullstack Web & Mobile Developer. Currently, I am also learning to become a Cyber Security Expert. I love building applications and discussing new product ideas. If you're interested in collaborating, feel free to reach out! 😄✌️
+I'm **Muhammad Faizal Setiawan** from Indonesia. I'm a student in SMK Assalaam Bandung of Software Engineering and a Fullstack Web & Mobile Developer. Currently, I am also learning to become a Cyber Security Expert. I love building applications and discussing new product ideas. If you're interested in collaborating, feel free to reach out! 😄✌️
 
 ![GIF](https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
 
